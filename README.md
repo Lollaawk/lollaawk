@@ -16,6 +16,10 @@
 
 ###
 
+<h1 data-importer="text" align="center"></h1>
+
+###
+
 <h3 data-importer="text" align="center">𝚂𝚘𝚋𝚛𝚎 𝙼𝚒𝚖!</h3>
 
 ###

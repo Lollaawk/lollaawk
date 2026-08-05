@@ -4,8 +4,8 @@
 
 ###
 
-<div data-importer="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=Hello!&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=2E3E6D&strokeWidth=8&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A2B7E4"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=137&section=header&reversal=false&text=Hello!&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=2E3E6D&strokeWidth=8&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A2B7E4"  />
 </div>
 
 ###

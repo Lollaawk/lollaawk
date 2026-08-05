@@ -7,7 +7,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="36" src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg"  />
+  <img data-importer="image" height="40" src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg"  />
 </div>
 
 ###

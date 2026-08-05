@@ -1,25 +1,11 @@
-<img data-importer="image" align="right" height="157" src="https://i.pinimg.com/736x/ea/d1/5a/ead15a4d3b32d342ffe41bedb0ad3dd7.jpg"  />
+<img align="right" height="157" src="SUA_IMAGEM_COM_BORDAS_ARREDONDADAS.png" />
 
-###
-
-<h1 data-importer="text" align="center"></h1>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="40" src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg"  />
+<div align="center">
+  <img height="40" src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" />
 </div>
 
-###
+<br />
 
-<h1 data-importer="text" align="center"></h1>
+<h3 align="center">𝚂𝚘𝚋𝚛𝚎 𝙼𝚒𝚖!</h3>
 
-###
-
-<h3 data-importer="text" align="center">𝚂𝚘𝚋𝚛𝚎 𝙼𝚒𝚖!</h3>
-
-###
-
-<p data-importer="text" align="left">Escrever aqui o que é importante, o que estou estudando, um resumo sobre mim e meus projetos atuais!!</p>
-
-###
+<p align="left">Escrever aqui o que é importante, o que estou estudando, um resumo sobre mim e meus projetos atuais!!</p>
